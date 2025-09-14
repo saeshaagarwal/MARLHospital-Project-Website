@@ -1,1 +1,7 @@
 # MARL Hospital
+
+Academic Project Page for SKILL-ALIGNED FAIRNESS IN MULTI-AGENT LEARNING FOR
+COLLABORATION IN HEALTHCARE
+
+
+Paper Link: https://arxiv.org/abs/2508.18708
